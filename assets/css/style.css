@@ -1,0 +1,40 @@
+#jumbotron {
+    background-color: #FF4040;
+}
+
+.potal-slogan {
+    color:  white;
+}
+
+.portal-title {
+    color: white;
+}
+
+
+.btn {
+    color: #white;
+}
+
+#hr {
+    color: white;
+}
+
+#emailHelp {
+    color: white;
+}
+
+.form-check-label {
+    color: white;
+}
+
+.form-control {
+    width: 150px;
+}
+
+.social-accounts-links {
+    display: flex;
+    -ms-flex-align: center;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
